@@ -7,7 +7,7 @@ export default function App() {
       <p className=" mb-3 text-slate-500 ">
         Team members previously added to projects
       </p>
-      <div className=" w-full border-b-2"></div>
+      <div className=" w-full border-b"></div>
       <MemberList></MemberList>
     </div>
   );
